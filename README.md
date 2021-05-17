@@ -1,0 +1,3 @@
+# website-frontend
+
+This is just a small Angular based website. Nothing fancy here...
